@@ -8,7 +8,7 @@
 ---
 
 Bot URL -> [Here](https://discordapp.com/api/oauth2/authorize?client_id=702430800817160294&permissions=3155968&scope=bot)  
-AutoPlaylistについて -> [一覧](https://github.com/nesosuke/MusicBot/blob/master/config/autoplaylist.txt)  
+AutoPlaylistについて -> [一覧](https://github.com/nesosuke/MusicBot/blob/master/config/autoplaylist.txt)  にPRしといてくれ
 
 ---  
 
